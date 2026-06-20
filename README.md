@@ -1,13 +1,26 @@
-## Hi there 👋
-
-# Hi 👋, I'm Oscar Gallo
+### Oscar Gallo Msc in Artificial Intelligence
 
 ### R&D Engineer passionate about AI, research & agentic systems
 
-- 🔬 Currently working as an **R&D Engineer @iNBest**
-- 🤖 One of my specialities is **building agentic systems**
-- 🧬 Exploring **bio-inspired & genetic algorithms** as part of my MSc
-- 🔌 Building with the **Model Context Protocol (MCP)** to connect enterprise systems like SAP Business One
+## whoami
+```js
+const oscar = {
+  role:      "R&D Engineer @ iNBest",
+  background:"MSc in AI candidate ",
+  focus:     ["agentic systems", "GenAI & multi-agent orchestration", "enterprise B2B integration"],
+  clouds:    ["Azure", "AWS"],
+  stack:     ["Python", "TypeScript", "Docker", "MCP"],
+  certified: [
+    Microsoft Azure AI 900 certified
+    // add your certifications here, e.g.
+    // "Azure Developer Associate"
+  ],
+  mantra:    "research → prototype → production-ready agents",
+};
+```
+
+- 🔬 Currently working as an **R&D Engineer @iNBest** **building agentic systems**
+- 🔌 Building with the **Model Context Protocol (MCP)** to connect enterprise systems.
 - 🌱 Currently deepening my knowledge in **machine learning, optimization, and AI agents**
 - 📫 Reach me through my LinkedIn below
 
