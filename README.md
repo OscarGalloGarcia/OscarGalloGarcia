@@ -12,8 +12,6 @@ const oscar = {
   stack:     ["Python", "TypeScript", "Docker", "MCP"],
   certified: [
     Microsoft Azure AI 900 certified
-    // add your certifications here, e.g.
-    // "Azure Developer Associate"
   ],
   mantra:    "research → prototype → production-ready agents",
 };
