@@ -22,9 +22,11 @@ const oscar = {
 - 🌱 Currently deepening my knowledge in **machine learning, optimization, and AI agents**
 - 📫 Reach me through my LinkedIn below
 
-### Connect with me:
+### Connect with me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" height="28"/>
+</a>
 
 ### Languages and Tools:
 
