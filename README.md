@@ -17,7 +17,7 @@ const oscar = {
 };
 ```
 
-- 🔬 Currently working as an **R&D Engineer @iNBest** **building agentic systems**
+- 🔬 Currently working as an **R&D Engineer @iNBest** building agentic systems
 - 🔌 Building with the **Model Context Protocol (MCP)** to connect enterprise systems.
 - 🌱 Currently deepening my knowledge in **machine learning, optimization, and AI agents**
 - 📫 Reach me through my LinkedIn below
