@@ -43,6 +43,6 @@ Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons
 
 ### Cloud:
 Azure <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" height="20"/> | 
-Azure AI Foundry <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="azure ai foundry" height="20"/>
+<img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="azure ai foundry" height="20"/>
 
 GCP <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" height="20"/>
