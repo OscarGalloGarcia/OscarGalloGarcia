@@ -41,6 +41,5 @@ Pythorch <img src="https://raw.githubusercontent.com/devicons/devicon/master/ico
 Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="20"/> |
 
 ### Cloud:
-Azure <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" height="20"/> |
-
+Azure <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" height="20"/> | 
 GCP <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" height="20"/>
