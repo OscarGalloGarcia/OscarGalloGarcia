@@ -1,6 +1,6 @@
 # Oscar Gallo
+### MSc in Artificial Intelligence · R&D Engineer · Agentic Systems Builder
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D4&width=500&lines=MSc+in+Artificial+Intelligence;R%26D+Engineer+%40+iNBest;Agentic+Systems+Builder)](https://git.io/typing-svg)
 
 ## whoami
 ```js
