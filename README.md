@@ -40,8 +40,7 @@ Pythorch <img src="https://raw.githubusercontent.com/devicons/devicon/master/ico
 ### AI Software Development (Spec-Driven Development)
 
 <img src="https://img.shields.io/badge/Claude%20Code-1C3C3C?style=flat&logo=anthropic&logoColor=white" alt="claude code" height="20"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat&logo=openai&logoColor=white" alt="codex" height="20"/>
+&nbsp; | <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat&logo=openai&logoColor=white" alt="codex" height="20"/>
 
 ### Tools : 
 
