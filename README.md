@@ -37,8 +37,3 @@ Azure <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/
 Pythorch <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" height="30"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="langchain" height="30"/>
 
-### 📊 GitHub Stats:
-
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarGalloGarcia&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarGalloGarcia&layout=compact&theme=tokyonight)
