@@ -1,4 +1,5 @@
-### Oscar Gallo Msc in Artificial Intelligence
+# Oscar Gallo
+### MSc in Artificial Intelligence
 
 ### R&D Engineer passionate about AI, research & agentic systems
 
