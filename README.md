@@ -129,8 +129,6 @@ Agent orchestration platform using MCP to connect CRMs, databases and cloud serv
 
 ## Certifications
 
-🏅 Microsoft Certified: Azure AI Engineer Associate (AI-102)
-
 🏅 Microsoft Certified: Azure AI Fundamentals (AI-900)
 
 ---
@@ -150,12 +148,6 @@ Agent orchestration platform using MCP to connect CRMs, databases and cloud serv
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarGalloGarcia"/>
 
 </p>
-
----
-
-## Activity
-
-> *(Replace with lowlighter/metrics once configured)*
 
 ---
 
