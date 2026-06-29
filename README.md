@@ -50,3 +50,11 @@ Azure <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/
 <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="azure ai foundry" height="20"/>
 
 GCP <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" height="20"/>
+
+## 📊 GitHub Metrics
+
+<img src="https://github-readme-stats.vercel.app/api?username=OscarGalloGarcia&show_icons=true&include_all_commits=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarGalloGarcia" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarGalloGarcia&layout=compact" />
