@@ -153,7 +153,7 @@ Agent orchestration platform using MCP to connect CRMs, databases and cloud serv
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Gallo-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Gallo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gallogarciaoscaralberto/)
 
 ---
 
